@@ -21,3 +21,5 @@ console.log(`Bem vindo a faculdade Senac, ${nome}!`);
 console.log(`Sua turma é ${turma}.`);
 console.log(`Você tem ${idade} anos.`);
 console.log(`Sua aula inicia às ${horario} horas.`);
+
+// teste
